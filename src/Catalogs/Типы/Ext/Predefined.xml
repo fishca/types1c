@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.21">
+	<Item id="428fd05b-e301-43cb-a7c7-0fa925195e78">
+		<Name>Всякое</Name>
+		<Code>1</Code>
+		<Description>Всякое</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="49b5bb94-f954-4100-95a6-729a03370eef">
+				<Name>Временно</Name>
+				<Code>4</Code>
+				<Description>Временно</Description>
+				<IsFolder>true</IsFolder>
+			</Item>
+			<Item id="752bcbe7-6876-402c-bb0f-70d18a1e29f1">
+				<Name>Мета</Name>
+				<Code>2</Code>
+				<Description>Мета</Description>
+				<IsFolder>true</IsFolder>
+			</Item>
+			<Item id="2a255da7-f4c3-4959-a5af-9956da14b9ae">
+				<Name>МетаТипы</Name>
+				<Code>3</Code>
+				<Description>Мета типы</Description>
+				<IsFolder>true</IsFolder>
+			</Item>
+			<Item id="863cff10-4fca-4013-b4be-92612a600d4f">
+				<Name>Права</Name>
+				<Code>5</Code>
+				<Description>Описания Прав</Description>
+				<IsFolder>true</IsFolder>
+			</Item>
+			<Item id="4409d011-b94c-47ed-8517-89390b794d8d">
+				<Name>ТребуемыеРазрешенияМобильногоПриложения</Name>
+				<Code>e4c53f94-e5f7-4a34-8c10-218bd811cae1</Code>
+				<Description>ТребуемыеРазрешенияМобильногоПриложения</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+	<Item id="c4a74a65-da21-4769-8a7f-84b44d14ca73">
+		<Name>ПримитивныеТипы</Name>
+		<Code>0</Code>
+		<Description>Примитивные типы</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="2b760d06-8b17-4980-bb1b-152cbc7a918f">
+				<Name>Null</Name>
+				<Code>af40a278-63bc-478e-91a8-19e0d16b10b5</Code>
+				<Description>Null</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="54f61764-e309-4835-87a1-10357bb0787e">
+				<Name>Булево</Name>
+				<Code>5d4125ad-f6e7-4313-be32-f71d0ab60915</Code>
+				<Description>Булево</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="97764a2e-a4bc-41fc-bb66-4f7d22795483">
+				<Name>Дата</Name>
+				<Code>aae38c48-a877-411c-a6d3-fbaa1f83c4bd</Code>
+				<Description>Дата</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="80eadf2c-bfc6-40d3-be76-7c648efc597d">
+				<Name>Неопределено</Name>
+				<Code>ee8d3e7c-f930-4a76-8aad-4ff9083a6ea6</Code>
+				<Description>Неопределено</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="b20a120c-d17d-4398-b9ac-51157d2c7d64">
+				<Name>Строка</Name>
+				<Code>9b6abf8b-0173-48e5-b0a0-83b21fcf63c5</Code>
+				<Description>Строка</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="afd7694f-7c3f-4178-b18e-0335cd234d06">
+				<Name>Тип</Name>
+				<Code>d47d59f8-73f0-481c-8b5e-f6384c0a4804</Code>
+				<Description>Тип</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="59e46fa3-e766-4b03-b2d9-e3a8d9749708">
+				<Name>Число</Name>
+				<Code>b0be78f2-0ee6-4d31-a3bb-77dd32ba5bec</Code>
+				<Description>Число</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+	<Item id="8fe71267-a5bb-4d6a-87d6-de719dfc219f">
+		<Name>ВстроенныеФункцииЯзыка</Name>
+		<Code>e1924202-5287-4053-9fd1-f893c2319829</Code>
+		<Description>ВстроенныеФункцииЯзыка</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="d5fd2c2f-fb82-4d46-b370-9635197b9ce4">
+		<Name>ГлобальныйКонтекст</Name>
+		<Code>2757d736-d54c-4381-8773-48771f5a8e7d</Code>
+		<Description>ГлобальныйКонтекст</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="f6b87f0d-74c5-4019-871b-b18c8f7cc24a">
+		<Name>Произвольный</Name>
+		<Code>-</Code>
+		<Description>Произвольный</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
